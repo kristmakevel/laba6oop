@@ -1,0 +1,8 @@
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/strategies/CMakeFiles/bubble.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/strategies/CMakeFiles/sorter.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/strategies/CMakeFiles/quick.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/strategies/CMakeFiles/sorting.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/strategies/CMakeFiles/std.dir
+C:/Users/macka/source/repos/kristmakevel/laba6oop/build/strategies/CMakeFiles/main.dir

@@ -17,5 +17,5 @@ endif()
 
 
 
-include_directories(strategy)
-add_subdirectory(strategy)
+include_directories(strategies)
+add_subdirectory(strategies)

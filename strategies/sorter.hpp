@@ -3,14 +3,14 @@
 
 class Sorter {
 public:
-    Sorter(SortingStrategy* sort_strateg) :sort_strateg(sort_strateg) {};
+    Sorter(SortingStrategy* sorter_s) :sorter_s(sorter_s) {};
     void SortData(std::vector<int>& data) {
-        sort_strateg->sort(data);
+        sorter_s->sort(data);
     }
 
-    void SetNewStrategy(SortingStrategy* new_sort_strateg) {
-        sort_strateg = new_sort_strateg;
+    void SetNewStrategy(SortingStrategy* new_sorter_s) {
+        sorter_s = new_sorter_s;
     }
 private:
-    SortingStrategy* new_sort_strateg;
+    SortingStrategy* sorter_s;
 };
