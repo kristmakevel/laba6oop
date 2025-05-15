@@ -8,7 +8,7 @@ public:
         sort_strateg->sort(data);
     }
 
-    void SetStrategy(SortingStrategy* new_sort_strateg) {
+    void SetNewStrategy(SortingStrategy* new_sort_strateg) {
         sort_strateg = new_sort_strateg;
     }
 private:
