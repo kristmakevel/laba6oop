@@ -180,6 +180,12 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\macka\source\repos\kristmakevel\laba6oop\build\strategies\insertion.vcxproj">
+      <Project>{2010BE99-D4F2-3152-B735-05FB4DB56E4A}</Project>
+      <Name>insertion</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
     <ProjectReference Include="C:\Users\macka\source\repos\kristmakevel\laba6oop\build\strategies\main.vcxproj">
       <Project>{8FB4E859-AEC9-38F7-9432-495568D5D09E}</Project>
       <Name>main</Name>
